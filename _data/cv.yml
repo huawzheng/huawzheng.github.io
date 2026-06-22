@@ -1,0 +1,57 @@
+cv:
+  name: Huawei Zheng
+  label: Master Student in Software Engineering at Zhejiang University
+  email: zhenghuawei [at] zju.edu.cn
+  location: Hangzhou, China
+  image: assets/img/prof_pic.jpg
+  summary: I work on data agents and trustworthy large language models, with a focus on LLM safety, retrieval reasoning, intelligent question answering systems, Text-to-SQL, and Schema Linking.
+
+  social_networks:
+    - network: GitHub
+      username: huawzheng
+    - network: Google Scholar
+      username: -pFhXcAAAAAJ
+
+  sections:
+    Education:
+      - institution: Zhejiang University
+        logo: /assets/img/cv/logo_zh_en_horizontal_blue_2x.jpg
+        logo_alt: Zhejiang University logo
+        logo_class: cv-entry-logo-wide cv-entry-logo-zju
+        area: Software Engineering
+        studyType: Master Student
+        start_date: 2024-09
+        end_date: Present
+        highlights:
+          - Advised by [Prof. Dazhen Deng](https://dengdazhen.github.io/). Expected to graduate in 2027.06.
+
+      - institution: Fujian Agriculture and Forestry University
+        logo: /assets/img/cv/fafu.jpg
+        logo_alt: Fujian Agriculture and Forestry University logo
+        logo_class: cv-entry-logo-fafu
+        area: Software Engineering
+        studyType: Bachelor of Engineering
+        start_date: 2020-09
+        end_date: 2024-06
+        score: "GPA: 3.7/4.0, Rank: 1 / 115"
+        highlights:
+          - "GPA: 3.7/4.0, Rank: 1 / 115."
+
+    Experience:
+      - company: Tencent
+        logo: /assets/img/cv/tencent-brand-color.svg
+        logo_alt: Tencent logo
+        logo_class: cv-entry-logo-wide
+        position: Research Intern
+        start_date: 2025-11
+        end_date: Present
+        highlights:
+          - Mentored by [Haozhe Feng](https://fenghz.github.io/resume/).
+
+    Awards:
+      - title: Second Prize, China Collegiate Computing Contest - Group Programming Ladder Tournament National Final
+        date: 2023-05
+      - title: Second Prize, Lanqiao Cup C/C++ Programming National Final
+        date: 2023-06
+      - title: Second Prize, MathorCup College Mathematical Modeling Challenge
+        date: 2023-06

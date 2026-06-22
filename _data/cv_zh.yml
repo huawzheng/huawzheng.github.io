@@ -1,0 +1,57 @@
+cv:
+  name: 郑华伟
+  label: 浙江大学软件工程硕士研究生
+  email: zhenghuawei [at] zju.edu.cn
+  location: 杭州，中国
+  image: assets/img/prof_pic.jpg
+  summary: 我的研究方向包括数据智能体与可信大语言模型，重点关注 LLM 安全、检索推理、智能问答系统、Text-to-SQL 与 Schema Linking。
+
+  social_networks:
+    - network: GitHub
+      username: huawzheng
+    - network: Google Scholar
+      username: -pFhXcAAAAAJ
+
+  sections:
+    Education:
+      - institution: 浙江大学
+        logo: /assets/img/cv/logo_zh_en_horizontal_blue_2x.jpg
+        logo_alt: 浙江大学 logo
+        logo_class: cv-entry-logo-wide cv-entry-logo-zju
+        area: 软件工程
+        studyType: 硕士研究生
+        start_date: 2024-09
+        end_date: 至今
+        highlights:
+          - 导师为[邓达臻老师](https://dengdazhen.github.io/)，预计 2027.06 毕业。
+
+      - institution: 福建农林大学
+        logo: /assets/img/cv/fafu.jpg
+        logo_alt: 福建农林大学 logo
+        logo_class: cv-entry-logo-fafu
+        area: 软件工程
+        studyType: 工学学士
+        start_date: 2020-09
+        end_date: 2024-06
+        score: "GPA: 3.7/4.0，Rank: 1 / 115"
+        highlights:
+          - "GPA: 3.7/4.0，Rank: 1 / 115。"
+
+    Experience:
+      - company: 腾讯
+        logo: /assets/img/cv/tencent-brand-color.svg
+        logo_alt: 腾讯 logo
+        logo_class: cv-entry-logo-wide
+        position: 研究实习生
+        start_date: 2025-11
+        end_date: 至今
+        highlights:
+          - 指导老师为[冯浩哲](https://fenghz.github.io/resume/)。
+
+    Awards:
+      - title: 中国高校计算机大赛 - 团体程序设计天梯赛全国总决赛二等奖
+        date: 2023-05
+      - title: 蓝桥杯 C/C++ 程序设计全国总决赛二等奖
+        date: 2023-06
+      - title: MathorCup 高校数学建模挑战赛二等奖
+        date: 2023-06
